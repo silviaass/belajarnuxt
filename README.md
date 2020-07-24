@@ -1,0 +1,2 @@
+# belajarnuxt
+belajar nuxt.js ~~
