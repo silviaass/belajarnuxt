@@ -18,14 +18,16 @@
         </div>
       </div>
     </nav>
-    <br>
+    <br><br>
     <nuxt/>
   </div>
 </template>
 
 <style>
     .navbar{
-        box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.1);
+        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+        padding-left: 0;
+        padding-right: 0;
     }
 
     .nav-link{
