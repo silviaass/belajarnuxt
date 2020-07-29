@@ -9,10 +9,13 @@
         <div class="collapse navbar-collapse justify-content-end mr-auto">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="/profile">Profile</a>
+              <a class="nav-link" href="./">Become a member</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/detail">Detail</a>
+              <a class="nav-link" href="./">Sign in</a>
+            </li>
+            <li class="nav-item">
+              <div class="btn btn-green">Get started</div>
             </li>
           </ul>
         </div>
@@ -32,5 +35,16 @@
 
     .nav-link{
       color: #000000;
+    }
+    
+    .nav-item{
+      font-size: 14px;
+    }
+
+    .btn-green{
+      border: 1px solid green; 
+      font-size: 14px; 
+      color: green;
+      margin: 2px 5px;
     }
 </style>

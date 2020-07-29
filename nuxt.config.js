@@ -11,7 +11,8 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.png?v=3' },
-      { rel: 'stylesheet', type: 'text/css', href: 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/css/bootstrap.min.css' }
+      { rel: 'stylesheet', type: 'text/css', href: 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/css/bootstrap.min.css' },
+      { rel: 'stylesheet', type: 'text/css', href: 'https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css' }
     ]
   },
   /*
